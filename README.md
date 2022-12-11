@@ -1,4 +1,4 @@
-# Mern-Notezipper
+# mern-notes-website
 Note Zipper provides you one safe place for all your notes.
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/87437738/201672366-36ce60b0-bb17-42ea-839c-7c521dcbf2ec.png)
